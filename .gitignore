@@ -80,6 +80,10 @@ missing
 test-driver
 platforms/iar/settings
 cpputest_*.xml
+.autotools
+.deps
+.dirstamp
+CppUTestGeneratedConfig.h
 
 #IAR automatically generated files
 *.dep
